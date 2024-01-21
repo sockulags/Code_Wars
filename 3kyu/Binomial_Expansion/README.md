@@ -1,6 +1,6 @@
-# Binomial Expansion
+### Binomial Expansion
 
-### The purpose of this kata is to write a program that can do some algebra.
+#### The purpose of this kata is to write a program that can do some algebra.
 
 Write a function expand that takes in an expression with a single, one character variable, and expands it. The expression is in the form `(ax+b)^n` where a and b are integers which may be positive or negative, x is any single character variable, and n is a natural number. If `a = 1`, no coefficient will be placed in front of the variable. If `a = -1`, `a "-"` will be placed in front of the variable.
 
