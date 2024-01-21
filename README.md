@@ -27,7 +27,7 @@ CodeWars is an online platform that provides a collection of coding challenges, 
 ### Completed katas by language
 | Difficulty|  C#                 | JavaScript               |
 |-----------|-----------------------|-------------------------|
-| **8kyu**  |                       |                         |
+| **8kyu**  |       1               |                         |
 | **7kyu**  |                       |                         |
 | **6kyu**  |                       |                         |
 | **5kyu**  |                       |                         |
