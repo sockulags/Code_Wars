@@ -28,19 +28,18 @@ CodeWars is an online platform that provides a collection of coding challenges, 
 | Difficulty|  C#                 | JavaScript               |
 |-----------|-----------------------|-------------------------|
 | **8kyu**  |       6               |                         |
-| **7kyu**  |       2               |                         |
-| **6kyu**  |       1               |         1               |
-| **5kyu**  |                       |                         |
-| **4kyu**  |                       |         2               |
-| **3kyu**  |                       |        2                |
+| **7kyu**  |       2               |         4               |
+| **6kyu**  |       1               |         8               |
+| **5kyu**  |                       |         8               |
+| **4kyu**  |                       |         9               |
+| **3kyu**  |                       |         2               |
 | **2kyu**  |                       |                         |
 | **1kyu**  |                       |                         |
 
 
 
 ### Repository Structure
-Levels: 8kyu... 1kyu where lower is more difficult.
-Question-name: I might solve the same question with different language, so It might be smart to sort like this.
+``/difficulty/question-name`` to account for solving the same question in different languages
 
 ### Getting Started with CodeWars
 - **Sign Up**: If you haven't already, sign up for a CodeWars account at CodeWars.
