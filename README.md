@@ -32,7 +32,7 @@ CodeWars is an online platform that provides a collection of coding challenges, 
 | **6kyu**  |       3               |         8               |
 | **5kyu**  |       5               |         8               |
 | **4kyu**  |       2               |         9               |
-| **3kyu**  |                       |         2               |
+| **3kyu**  |       1               |         2               |
 | **2kyu**  |                       |                         |
 | **1kyu**  |                       |                         |
 
